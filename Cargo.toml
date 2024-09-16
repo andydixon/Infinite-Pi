@@ -1,0 +1,10 @@
+[package]
+name = "pi"
+version = "0.1.0"
+edition = "2021"
+
+
+authors = ["Andy Dixon <andy@andydixon.com>"]
+
+[dependencies]
+num="0.4"
